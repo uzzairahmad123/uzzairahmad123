@@ -23,12 +23,11 @@
 ---
 
 ### 👨‍💻 About Me
-
 - 🔭 Currently building responsive and interactive web applications.
 - 🌱 Always learning new technologies to improve my skills.
 - 👯 Looking to collaborate on exciting web development projects.
 - 💬 Ask me about HTML, CSS, JavaScript, or Python!
-- ⚽ Fun fact: I'm also a football enthusiast!
+- ⚽ Fun fact: I'm also a football enthusiast!!
 
 ---
 
